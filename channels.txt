@@ -1,0 +1,1 @@
+listofchannels here, separate by new line
